@@ -71,3 +71,7 @@ Activity is malicious?
 
 - Given there is large volume of  unsuccessful connection from that ip or CIDR to any of our devices, we could just add that ip or domain to Endpoints IOC blocklist to relieve some network congestion stress to our devices.
 Path: **System → Settings → Endpoints → Indicators**
+
+_**Reference:**_
+- https://detect.fyi/identifying-potential-ddos-cases-based-on-asn-with-kql-queries-f3878ab5178f
+- https://detect.fyi/threat-hunting-via-autonomous-system-numbers-asn-99e038df235a
