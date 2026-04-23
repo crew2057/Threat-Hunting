@@ -1,5 +1,15 @@
 # Threat Hunting Report
 
+---
+
+**Log Source:**
+
+Password: mydfir-forge
+
+Link: https://ln5.sync.com/dl/ef45502f0#qvmi34tq-2spakn8u-mc3wi3fx-mads9uxi
+
+---
+
 **Title**: Active C2 Communication
 
 **Scope**: Host= KCD-Web | User= NT AUTHORITY\SYSTEM
